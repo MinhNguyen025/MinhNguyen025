@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20There&animation=fadeIn&type=cylinder&color=auto&height=100&fontSize=50&fontAlignY=65&theme=gruvbox"/>
+</p>
 
-<!--
-**MinhNguyen025/MinhNguyen025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h2>&nbsp;About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+name: Minh Nguyen
+```
+
+<!-- <a><img src="https://github-readme-stats.vercel.app/api?username=namberino&show_icons=true&include_all_commits=true&theme=rose_pine" width="400"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namberino&layout=compact&theme=rose_pine&hide=SciLab,Vim%20Script,Java,C%23,ShaderLab,HLSL,GLSL,HTML,CSS,SCSS,AGS%20Script,Objective-C"></a> -->
+
+
+<h2>&nbsp;Reach out to me</h2>
+<ul>
+  <li><a href="mailto:nguyenduyminh0205@gmail.com">My Email</a></li>
+  <li><a href="https://linkedin.com/in/duvminh025">My LinkedIn</a></li>
+</ul>
