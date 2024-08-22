@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello%20There&animation=fadeIn&type=cylinder&color=auto&height=100&fontSize=50&fontAlignY=55&theme=gruvbox"/>
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNguyen025&layout=compact&theme=rose_pine&hide=HTML,CSS&hide_border=true&theme=transparent">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhNguyen025&hide_border=true&theme=transparent" /> 
@@ -24,7 +22,7 @@
   </a>
 
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/duvminh025/" target="_blank">
-    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
+  <a href="https://www.linkedin.com/in/duvminh025/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab hegab" height="30" width="40" />
   </a>
 </p>
