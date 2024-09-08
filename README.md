@@ -21,7 +21,7 @@
   <a>
     <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNguyen025&layout=compact&theme=gruvbox&hide=HTML,CSS,SCSS" />
   </a>
-  <a>
+  <a href="https://github.com/MinhNguyen025/NoteBookLab">
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNguyen025&repo=NoteBookLab&line_height=20&theme=gruvbox" />
   </a>
 </p>
