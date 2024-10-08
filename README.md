@@ -4,8 +4,8 @@
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinhNguyen025&theme=gruvbox" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhNguyen025&theme=gruvbox&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhNguyen025&theme=gruvbox&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhNguyen025&theme=gruvbox&exclude=html,CSS" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhNguyen025&theme=gruvbox&exclude=html,CSS" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinhNguyen025&theme=gruvbox&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhNguyen025&theme=gruvbox" height="180em" alt="Commitments"/>
 </div>
@@ -21,8 +21,13 @@
   <a>
     <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNguyen025&layout=compact&theme=gruvbox&hide=HTML,CSS,SCSS" />
   </a>
-  <a href="https://github.com/MinhNguyen025/NoteBookLab">
-    <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNguyen025&repo=NoteBookLab&line_height=20&theme=gruvbox" />
+  <a href="https://github.com/MinhNguyen025/codewars_solution.git">
+    <img width="53.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhNguyen025&repo=codewars_solution&line_height=16&theme=gruvbox" />
   </a>
+</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/duvminh025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duvminh025" height="30" width="40" /></a>
+<a href="https://fb.com/duvminh025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duvminh025" height="30" width="40" /></a>
 </p>
 
