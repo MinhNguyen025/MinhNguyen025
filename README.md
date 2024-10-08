@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinhNguyen025&theme=gruvbox" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinhNguyen025&count_private=true&theme=gruvbox&number_format=long" height="180em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhNguyen025&theme=gruvbox&exclude=html,CSS" height="180em" alt="Most Commits Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhNguyen025&theme=gruvbox&exclude=html,CSS" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinhNguyen025&theme=gruvbox&utcOffset=5.30" height="180em" alt="Time Graph"/>
